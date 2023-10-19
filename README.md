@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carrinho12345
+- 👋 Hi, I’m João Victor
 - 👀 I’m interested in javaScript and creat animations in computing
 - 🌱 I’m currently learning the create animations in computing
 - 💞️ I’m looking to collaborate on all github rules
